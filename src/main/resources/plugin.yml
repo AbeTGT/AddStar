@@ -1,0 +1,9 @@
+name: AddStar
+version: '${project.version}'
+main: me.abetgt.addstar.AddStar
+api-version: 1.19
+authors: [ AbeTGT ]
+description: An addon for the "LifeCounter" plugin which allows you to add hearts on right click on item. Made during covid lol
+website: https://oasisnetwork.xp3.biz
+depend:
+  - LifeCounter
