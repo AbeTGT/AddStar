@@ -1,6 +1,8 @@
 # AddStar
 A LifeCounter addon that allows you to add hearts on right click with your chosen item.
 (I know, i'm not supposed to put everything in one class...)
+
+Please don't bully my coding, I'm new to Spigot <:)
 Requires LifeCounter: https://www.spigotmc.org/resources/102947/
 
 config.yml:
